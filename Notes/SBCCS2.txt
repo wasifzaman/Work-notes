@@ -1,0 +1,11 @@
+SBCCS2:
+	uninstall LMI
+	reinstall LMI + SC
+
+
+ The first authentication mechanism for a network installation occurs when the Windows Deployment Services client is running within Windows PE. At this point, users must enter credentials to select an install image. These credentials must be those of a domain account. After a client has been authenticated to the Windows Deployment Services server, the authenticated user must be able to read the Image.wim and Res.rwm files for an image from the RemoteInstall folder. By default, authenticated users have the necessary permissions to do so. For more information, see the "Permissions for Client Installations" section in Required Permissions.
+
+ verify dhcp + dns is coming from sonicwall
+
+ 1:00 Ryan WDS
+ 07-19

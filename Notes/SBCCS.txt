@@ -1,0 +1,73 @@
+SBCCS Notes
+
+Lag in videos. - Site to Site?
+	DFS
+Class videos.
+Roaming profiles.
+
+SBCCS2 Floor plan.
+Logon servers unavailable.
+
+Office 365 license.
+
+2nd Grade - wireless projectors.
+	Options.
+	Hitatchi.
+
+#TL 8.4
+-check all computers health
+-ticket#: 4075432
+	Secondary contact
+
+can't communicate w TS
+
+Wireless adapter may receive between 7-10 business days.
+Confirmation:
+
+
+reducing desktops in classroom
+lab/laptop cart
+
+discuss with sachin for access to remote software for Edwin.
+plan out 209G modem move.
+
+access points cisco.
+crashplan.
+teachers printer Kindergarten west end, Ms. Ramireiez.
+
+sbccsadmin
+
+#TL 8.18
+401 last computer.
+Anti-virus scan on Ms. Sanchez's computer.
+
+Bronx977
+
+
+~9/8~
+
+Diagnosed 403A and 403B computers. Repaired 403B wireless.
+Renamed BW. Tested printer connectivity and sent test print.
+223D no wire.
+
+423G: 2MD1290SZQ
+Product no: LQ207AV#ABA
+Model no: 200-5450xt
+
+
+
+
+ATS
+give remote access to Mr. Gayle
+Ms. Sanchez and Mr. Gayle: add printers
+
+ticket#: 412-7623
+
+
+10/6
+printer 55, 56 offline
+
+montero
+
+12/8
+Copier 423F East not working

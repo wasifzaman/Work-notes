@@ -1,0 +1,118 @@
+MESA-V5-010: order 1x M2x6 wafer head machine screw
+
+--Scott--
+Room 108:
+	Switch on floor (cabinet) open up side.
+	Not locked, find custodian to get in.
+	Switch 04: factory reset.
+	Download cisco images.
+	Name it, set it as switch04.
+	Set up management port.
+	Do not do Native vlan.
+
+Unable to ping from vlan 40:
+	.23, .21, .22, .24
+
+~8/28~
+
+•	229C Copier – Help staff fix issues with printing to the Konica
+•	Brian Rafferty – Ask Shannon for computer. Computer sporadically turns itself off automatically.  Sachin has the serial number and an in-warranty repair will be created with Apple
+•	Acer Netbooks – Delivery of 68 Acer Netbooks.  Log into each Acer and ensure it joins to the Student network.
+•	Charging Solution – Help Shannon set up a temporary charging solution until the carts arrive
+•	Brother Printers – Ask Shannon for location and printers. Hook-up and set up 3 Brother printers in 3 locations.
+•	Natasha’s Computer – Ask Shannon for computer. Unable to perform updates.  Keeps requesting password for a previous user’s email address even after logging out of the account from within the store and then entering MESA’s Apple ID credentials.
+
+Ask Shannon for:
+	Natasha's comp - completed. Updated and tested USB slots.
+	Brian's comp.
+	Location of printers - completed.
+	Pagee: find extra Mac and copy profile
+
+Find:
+
+Wait for:
+	Acer delivery. - complete.
+	Charging solution for carts.
+
+All day:
+	229C
+
+Misc:
+	329 projector: completed. assisted teacher to duplicate the display.
+	switch lab to VLAN 50. Put printer on VLAN 50. Reconfigure using GPO. Deploy printer.
+	Sebastian Bamba: printer completed. printer added.
+
+Now:
+	Contact Scott and Simon for Student Wi-Fi. - complete
+
+Notes:
+338a-d010
+Case#: 654399837
+
+338A D130
+
+9/25
+229F-D130 - sw02 p24
+229I-D127 - sw01 p24
+
+9/29
+new macbook air: 2524861223
+
+
+10/9
+lab: between 1 and 2, 0EB3, 48F7
+poster printer
+pagee: follow up 11:30!
+robotics: 25, 
+Timeclock: sw02, port 10, D046
+
+10/23
+D138173225
+case#: 684075668
+
+299.95
+case#: 684110389
+
+3252239300
+
+Capital Data-  800-999-4409	weblink:   http://www.capitaldatausa.com 
+
+Canada partners :
+
+Comsol Data-  800-267-4834	weblink:   http://www.mymicro.com
+
+Grand Tech-  800-567-0586	weblink:   http://www.grandtech.ca 
+
+
+Name: Shannon Browne
+Phone Number: (718) 282-7426
+Contact Address: 231 Palmetto Street, New York, NY 11221
+Email address: sbrowne@mesacharter.org
+Zip Code: 11221
+Date of Purchase: 1/28/2014
+Case#: 3608131U
+
+send:
+Acer Repair Center    
+1394 Eberhardt Rd  
+Temple, TX 76504
+
+11/13
+eod: change wifi vlan to 40
+printers
+install n-able probes
+
+12/4
+MESAMAC22
+Scan to email, scanned and tested each copy machine
+Lab22 - damaged screen
+
+user and root library, launch agents launch daemon, startup item, third party text file
+
+Panel: 03T6505
+Inverter: 03T6507
+
+12/11
+Nelly Soto - updated office and OS
+Natasha Gudino - updated and enabled LMI.
+Alex Macaluso - updated and enabled LMI.

@@ -1,0 +1,35 @@
+Mac:
+	Command + V: verbose mode
+
+N-able:
+	VIPs:
+		Enable Pro
+		Enable Patch management
+			Default
+
+Safesquid:
+	Added profiles -> name of the profile
+	Profiles -> profiles that will be added
+
+TNA:
+	Store all files on Google Apps
+
+Infra:
+	PBX (if any else DoE) + backup scheme
+	Record Extra Equipment
+	Add pertinent info on LCCS
+	Email system
+
+MESA:
+	Organize OU
+
+	920-0144
+	apc#: 5369077
+
+	Assign each teacher to each room
+		ext 3711, and 3712
+		IVR each room
+		371 -> if voicemail -> choice for teacher 1/2
+		email address onto extension, forward vm to email
+
+	24+

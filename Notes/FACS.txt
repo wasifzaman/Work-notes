@@ -1,0 +1,26 @@
+402 - printer access fixed. Cleared queue.
+402N - completed
+403 - computer is very slow; laptop overheats. No beeping when diagnosing. Hardware test does no report an error. recommend battery replacement.
+404
+413 - Ms. Jusino's laptop won't turn on.
+418 - can't print.
+421 - configure .53
+422 - Ms. Robinson printer.
+423 - printer connected; Ms. Lloyd printer added                                                       .
+
+425 - no toner; Justin.
+427 - inspect printer; inspect computer.
+427A - possible good printers; reset password and sync phone (complete).
+429 - both printers reconnected; test scanning again.
+429A - can print; can't scan to email, needs software. Can't fax yet.
+431 - network drops not connected to switch/wrong vlan.
+433 - printer connected; assist Ms. Cassaro and Ms. Ignacio.
+434 - no printer; inspect computer.
+436 - no printer
+
+STF-109: AWINTER - slow computer
+STF-166: ACLARK - passwords not in sync
+STU-140: Tamara Destine: 
+
+
+All Private IP -> X1 IP

@@ -1,0 +1,610 @@
+#TL 8.5
+Desktop images:
+	Resolved the issue with desktop imaging:
+		Fixed the Windows Installer service on the machine to be cloned.
+		Repaired the image.
+		Recreated the deployment on the server.
+		Succesfully uploaded image to server.
+
+#TL 8.7
+-**Adel's laptop: fixed, applied bios update and updated drivers. connected to server, set up outlook. activated windows and office.
+-**Optimum modem: Optimum technician confirmed that the modem itself was down yesterday afternoon. We noticed another modem was unplugged. It is possible that someone was working in the room and accidentally disconnected them and did not know which one to plug in. We concluded that the issue was not on our firewall.
+
+#TL 8.12
+-Acronis: case#: 02238473
+-Ms. Prescott: password issue, reset laptop password and fixed the account.
+-Sorina Morel: fixed outlook issue: deleted old mail profile and reconnected.
+-Set up Acronis on LCS2k8-VH01: began backups.
+-Create backup folder on LCCS-Backups.
+-L teacher: updated firmware of hard drive.
+	Backed up user data.
+	Disabled the SmartWare software which required admin access to operate.
+
+options:
+	storage drive.
+
+x240-015: ssd2 error
+
+Tuko4689
+
+Office 365 access
+
+608787688389
+
+1800gofedex
+http://www.fedex.com
+174272
+
+
+D052 - G1/0/3
+314 D032/D033 - 83/84
+
+TL#8.22
+Printers online, missing printer.
+Chantel Morris: reset password, set up outlook
+La Cima letterhead.
+Giovanna fischer: login issue resolved: disjoined, rejoined the domain.
+
+
+
+
+Turn on GPO
+
+Lenovo#: A07ZPW6
+Phone#: 800-426-7416, option 2 | lenovo.com/support
+Tracking#: 771053368504
+
+Mouse in Octagons last computer.
+Nacu6453
+
+
+
+~8/26~
+
+•	Courtney St. Amand’s Laptop – Package laptop and send back to Lenovo for repair (Issue #A07ZPW6)
+•	Tara Phillip’s Printer – Printer NIC receives signals but is unable to connect; NIC is possibly damaged.  Investigate further
+•	SmartBoard Software – Issue elevated and files sent. Waiting on reply.
+•	Lavern Williams – Set up external hard drive on user’s laptop
+•	Charles Glover – Set up external hard drive (used)
+•	Phones:
+	o	Determine whether or not the 6 rooms without phones will require phones
+	o	Determine location for connection of Polycom phone in Room 341 - needs wire
+	o	Troubleshoot Polycom phone in Room 302 - connected but can't dial.
+	o	Troubleshoot Polycom phone in Room 346.
+
+•	SmartBoard Sound – Sound does not work on two SmartBoards - Fisher room
+Replaced Hexagons CPU
+Adel's phone: connect OneDrive for business.
+Charle's Glover: external (issue closed), will use the (I:) drive on server for files.
+
+
+
+~8/29~
+•         SMartInk Software – Follow-up with SMART[S.G.]  - escalate issue further, and bring Brennan in the loop by cc’ing him on emails to SMART. What is not working?
+•         [S.G.] Konika Minolta – Update address book (remove old staff members, add new staff members)
+•         [S.G.] Renaming of printers – work with Brennan to see if we can re-label the printers so that teachers are printing to the right machines
+•         Fisher & Prisms SmartBoard – Cable is loose.  Discuss options for replacing
+•         Fisher SmartBoard Speakers – Contact SMART regarding the warranty[S.G.] ; sent Brennan another contact outside of Adwar Video to reach out to, for repair, if our of warranty
+•         Adel’s OneDrive on Windows Phone – Investigate possible solutions for having both a personal Live account and OneDrive business account on the same Windows phone
+•         Courtney St. Amand’s – Ship laptop to manufacture for repair (pending delivery of shipping box)
+•         Lavern Williams – Set up external hard drive on laptop
+•         Tara Phillip’s Printer – Diagnosis network issue
+•         Document Camera – Would like five (5) Smart Doc Camera SDC-330 power cords
+•         Chantel Morris – Computer won’t turn on
+•         Kaila McNair’s Computer – Install MMS on Kaila McNair’s computer
+•         Phones:
+			o   Polycom in Room 302 – Is connected but unable to dial out
+			o   Polycom in Room 341 – Needs to be connected and tested
+			o   Polycom in Room 346 – Troubleshoot
+
+
+
+
+
+
+Ask Brennan about:
+	Smartboard: have loaner laptop, waiting for remtoe session.
+	Chantel Morris: re-image.
+	Smartboard speakers: reach out to Adwar Video for repairs? Another vendor for price.
+		Speakers to buy: http://www.touchboards.com/smartboards/smart_sba-na_usbaudiosystemsb600.html
+
+Wait for:
+	
+Find:
+	Document camera: 5x SDC-330 power cord: http://www.smallacc.com/replacement-smart-330-sdc330-ac-adapter-power-supply-cord-p-849.html
+	Prisms: doc camera broken. Needs replacement screw to fix / superglue.
+
+All day:
+	302 Phone: test.
+	341 Phone: test.
+
+Now:
+	Labeling printers: find and label Grade 1 BW.
+	346 Phone: troubleshoot.
+
+Misc:
+	Install Ubuntu 12.04 server on mail2k.
+	Rename classroom computers.
+	Create OUs for classrooms.
+	Re-check printer deployment.
+
+
+
+
+
+*Amy-Sharee	Smith	asmith@lacimacharterschool.org
+*Brennan	Alston
+*Axzyr	De Leon	axzyr@lacimacharterschool.org
+*Nicole	Morris	nmorris@lacimacharterschool.org
+*Teresa	Pallotolo	tpallotolo@lacimacharterschool.org
+*Geysha	Prescott	geysha@lacimacharterschool.org
+
+Judith	Christie	judith@lacimacharterschool.org
+Katelyn	Chinnis	katelyn@lacimacharterschool.org
+
+311 d098
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Completed:
+	Dominee Young: completed. set up outlook. set up VPN.
+	Kaila McNair: completed. install MMS.
+	Nicole Morris: complete. install VPN.
+	Brennan: completed install MMS, install VPN.
+	Jeneen's iphone email: completed, installed OWA.
+	Fisher and Prisms smartboard: completed tightening.
+	Lavern: completed. will use domain home folder.
+
+Pending:
+	Jeneen Jenkins: case#: get charger. A0A2W9M. Hard drive failure. Password reset complete.
+	Courtny St. Amand's box for laptop - boxing complete.
+
+
+
+
+
+
+
+
+
+
+
+~9/2~
+
+Main Copier Scanning
+#26: SmartINK troubleshoot
+
+BizHub ticket#: 18756778
+
+1234567812345678
+
+
+346:
+	334-d098 or d099
+	x1102
+	20bb
+
+341:
+	311-d071
+	x1201
+	246b
+
+charles glover: set up new mac with bootcamp.
+
+
+
+
+18004565664
+
+Chris: 4034074153
+
+Mr. Morris: A08428G - open
+www.123rescue.com
+
+
+LAN School.
+Microsoft Essentials.
+
+
+
+9/19
+Squares: renamed and rejoined a desktop to the domain.
+Lab: activating the windows on lab computers.
+Assisted Adel to install Dr.Fone to recover text messages.
+
+x240-008
+x240-010
+T440-002
+x240-016
+T440-009
+
+
+
+9/23
+Triangles: connected the correct wire and restarted all the computers and checked for internet.
+x240-005: disjoined and rejoined the domain
+T440-002: was named 004, renamed to 002 and tested login.
+Set up email address for Daniel Pierre and set up on iPhone.
+Reset switch for front desk and tested phone. Tested phones in office and found they were able to dial out and extensions.
+Amy Koven: Retreived Scope and Sequence file from shadow copy.
+Assisted Mr. Glover set the right time zone for the mac.
+
+pending:
+Mr. Glover's office calendar share.
+
+
+
+9/26
+jbrown - laptop reimaged
+vcurry - t440-003 - laptop reimaged
+squares - replaced desktop
+
+Mac: the remaining mac was reimaged.
+
+new PBX installed.
+All phones updated to work with new pbx and tested.
+
+
+pending:
+8 phones found not attached to wall. We will fix them on next site visit.
+
+LCCS-LAB-021 : port 3
+LCCS-LAB-022 : port 15
+Uplink: port 2
+
+9/30
+On Friday I want you to reach out to MMS and find out what it would entail to move MMS to another server off of DC1 (I want it to be on it's own VM)
+
+On old server, do a backup of the MMS database. Move it to new server. Install MMS generations. In SQL manager, restore backup database and on first log in, select database (user accounts > database access tab). Copy over licensev.mms.
+Ticket#: 00005216
+
+BIOS update
+
+Changed MMS to compatibility mode Win 7 for Brennan.
+Ovals reset student desktop to normal colors, replaced headphones.
+Ovals: sent purchase request for cable.
+
+Set phones VLAN:
+302
+314 kitchen
+336
+
+UDP 1053: port has to be open.
+UDP 796: port has to be open.
+teacher side broadcasts
+
+
+lwatkins@thenewamericanacademy.org
+
+10/3
+squares: set up phone and reconnected wire. Showed brennan how the wiring is done for rooms with phones.
+k-pod: secured wire to floor. Needs adhesive and cutting tool to use wire covers. Will have the cutting tool on next site visit.
+main office: reset bw printer
+lanschool: wired teacher and showed her how to use lanschool while we look for a solution to broadcast from the teacher network to the student network.
+	Set up GPO to deploy LanSchool.
+geysha: notified her of her voicemail password
+T440-002: disconnected and reconnected to server. Verified printers were added.
+
+charles's hard drive: pending purchase of hdd.
+decagons: computers don't work
+Main greeting: Ms. Cavelier would like to record it on Tuesday, Oct 7th.
+
+BUGS
+
+501 - MainOfficeIVR
+
+
+10/7
+Order keys for Lock'n'charge
+
+10/10
+Morel: get mouse and headphones.
+Koven: doc camera zoom broken, replace.
+Chrissy: set up greeting as main.
+
+Jennifer Brown
+Victoria Curry
+Jeneen Jenkins
+Axzyr DeLeon
+Courtney St. Amand
+o	LCCS-X240-008 Amy Koven
+o	LCCS-X240-010 Eunice Lee
+o	LCCS-X240-016 Julianne Toce
+o	LCCS-T440-002 Lavern Williams
+o	LCCS-T440-009 
+
+You have reached La Cima Charter School. If you know the extension, you may dial it at any time. For a directory of extensions dial 9. To speak to the main desk you may dial 0 or remain on the line.
+
+2102, error detection on SSD2
+Ticket#: 3024W6J
+
+
+
+10/14
+
+Victoria Curry: renamed laptop to it's correct name and rejoined it to domain.
+4 PM: L.Williams
+
+
+A089KBZ
+
+Set up DHCP server.
+
+support@gophermods.com
+
+brainpup
+
+lccs
+
+14
+
+10/17
+
+Binoua: 3025B9C: lenovo will send brick
+A089WNZ
+
+check firewall gpo
+
+Call from kitche phone: cannot hear on the other end.
+
+
+Binoua: 902KLBL
+
+
+10/24
+Jeneen: 902KQVZ
+
+Chantel Morris
+
+Case#: 902K3YF
+Motherboard part#: 04Y1290, 204Y1270
+Direct#: 800-388-7080
+
+11/3
+20B6-005RUS
+PF-01BDAN
+Case#: 3026FR2
+Laptop numbers, prefix LCCS-E431, suffixes: 001, 006, 007, 010, 011, 014 – 018, 020, 021, 027, 030 – 032, 044, 048, 050, 051, 055
+
+11/5
+CPWL1A5BDTY3
+Case#: 691124684
+
+11/7
+Kyra: installed trajan-pro and trade-gothica-light font
+Sherlly Pierre: reset google settings and confirmed that Chrome chose the default computer printer.
+Amy Koven: VPN installation confirmed and tested.
+LCCS-E431-037: installed Office 2013 and joined to domain.
+Moshen Nissanina: assisted sending confidential documents from DoE.
+Zeleena Khan: 20AL, pf-00mel6, case number: 3026TH9
+Samantha Roque: set up VPN.
+
+
+Rebeccan Kish: 3:30 PM.
+SMART: call them about fan issue.
+
+Lightbulb purchase for projector.
+
+Mendtronics
+
+11/10
+Nisah Brinson
+Cassandra Kastalek
+Charles: 2:00 PM
+Victor Rios
+
+Kitchen Phone
+
+
+Option	Value
+Enabled	true
+Ldap IP	10.119.1.2
+Ldap Port	389
+Use SSL	false
+Ldap Bind Method	SIMPLE_LDAP_AUTH
+Query Record Limit	1024
+Ldap User Filter	&(objectclass=person)
+Ldap Group Filter	(|(objectclass=posixGroup)(objectclass=groupofNames)(objectclass=group)(objectclass=groupOfUniqueNam
+es)(objectclass=accessGroup))
+Ldap Username	administrator@lacimacharterschool.org
+Ldap Password	26341f3d0b273f3e21321c100f31
+Ldap Basedn	DC=lacimacharterschool,DC=org
+Ldap Domain	lacimacharterschool.org
+Login Attributes	UserPrincipalName,sAMAccountname,uid
+Group Identifier	member,memberof,members,memberuid,memberid,uniquemember
+Edit Delete Clone	Up Down	Top Bottom
+
+Option	Value
+Enabled	true
+Ldap IP	10.119.1.2
+Ldap Port	389
+Use SSL	false
+Ldap Bind Method	SIMPLE_LDAP_AUTH
+Query Record Limit	1024
+Ldap User Filter	&(objectclass=person)
+Ldap Group Filter	(|(objectclass=posixGroup)(objectclass=groupofNames)(objectclass=group)(objectclass=groupOfUniqueNam
+es)(objectclass=accessGroup))
+Ldap Username	SafeSquidAdmin@lacimacharterschool.org
+Ldap Password	2e17283f02250c2b320837170f2e15
+Ldap Basedn	DC=lacimacharterschool,DC=org
+Ldap Domain	lacimacharterschool.org
+Login Attributes	UserPrincipalName,sAMAccountname,uid
+Group Identifier	member,memberof,members,memberuid,memberid,uniquemember
+
+11/11
+Change timezone settings
+wrong VLAN:
+	Shawn McGibney x1201
+	Kitchen x1548
+done 	Victor:
+done		Install remote software
+done 		Set up Outlook
+Activate Hexagons 01
+Run N-able discovery
+Fiber Link between MDF and IDF at LCCS
+	need to put a ticket in with DOE
+	Only one IDF
+
+11/14
+Merge Calendars
+Victor:
+	access to H drive restored.
+Chrissy:
+	set up remote conference.
+Cassandra Kastalek: look at wifi
+Gym AP: power adapter is broken
+Nicole: shortcuts set up and tested.
+Tara phillips: set up phone.
+
+Laptop maintenance:
+	Do not place on lap or anything soft. Blocks air vents. Meant to sit on flat surface.
+	Student laptop: shut down every day. Staff laptop: at least once a week.
+	Battery lower than 50-60%, plug it in, prevents battery drain.
+	Don't stretch the power cord.
+	Get a case!
+
+Ticket#: 4172474, userid: wzaman
+
+Phones:
+	Just change the plan instead of dial plan
+
+
+11/17
+replace lamp
+Rhombi - pens not working
+BUGS parent sms reminder
+
+SB680-R2-A84233
+Incident: 3187618
+
+ECP: 130, Jackie
+Sign up LaCima for youtube for educaiton.
+
+
+11/19
+set vlan on classroom
+
+Ms. Brown - change password
+
+Projector sleep function
+dept status: CQNZRDK
+dept status: 
+
+print from iPad: Daria
+
+Chrissy: USB wifi from Felicia.
+Cylinders: 4 laptops
+
+unblock incredibox
+
+Nonagons:
+	Monitors
+
+
+
+Axzyr De Leon
+Latoya Devonish
+Abigail Emerson
+Rebecca Kish
+Eunice Lee
+Julia Leavengood-Boxer
+Brennan Alston
+Sharard Sullivan
+Kristen Vasicek
+Zakiya Williams
+Ashley Williams
+
+
+11/25
+Bulbs order status
+Hexagons repair
+
+tbrown x240-001
+elee x240-010
+ssullivan t440-012
+zwilliams x240-002
+kish x240-007
+wiseman x240-018
+emerson x240-024
+jleavengood x240-009
+kvasicek t440-014
+ldevonish x240-023
+
+balston
+axzyr
+
+
+must be sent back. devonish case#: 30288Y2
+Type: 20AL
+Serial: PF00MEF4
+
+
+get PDU online, freeNAS
+informed Daria of voicemail pw: 7243521
+4th grade emails
+ZWilliams: keybaord shortcuts
+
+12/2
+Tbrown: installed movie maker.
+Ssullivan: rolled driver back.
+
+12/3
+checked:
+E440: 19, 34, 47
+
+
+12/5
+1208 - Roque
+1206 - Ware
+1207 - Nissah Brinson
+1547 - Alaina Chipman
+
+ZKhan - rolled back to previous wifi driver
+Monica - helped recover file
+
+Serviced the following laptops and tested content filtering.
+E431-022 - rejoined to domain and tested content filtering.
+E431-003 - ensured it was working properly and tested content filtering.
+E431-052 - ensured it was working
+
+001 - reimage
+013 - reimage
+053 - replace LCD
+
+
+11/24/14 6:30PM
+
+Lab39
+
+
+12/9
+nbrinson - changed vpn settings
+grade 3 printer - changed to ip address
+main office color printer - cleared print q
+
+c7513a27f8736383
+
+wmic /NODES:@labnodes.txt product where name="ScreenConnect Client (c7513a27f8736383)" call uninstall /nointeractive
+psexec \\lccs-lab-xxx -u lacima\administrator -p **** cmd /c copy \\lcs2k8-dc01\cts$\sc.msi c:\
+
+collect Loaner
+
+
+12/12
+e431-052 - delete lcstudent and log back in.
+lcstudent

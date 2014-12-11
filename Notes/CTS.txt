@@ -1,0 +1,43 @@
+Ubuntu:
+	username: wasif
+	password: amypond
+
+#meeting 8/7
+-fix / update:
+	infra - windows keys, no passwords
+	teampass
+
+-user bitlocker
+-tools:
+	external hdd
+	usb 3.0 64gb - easy2boot - both legacy and uefi
+		store OS image
+		Win 8, 8.1
+		Hiren's boot cd
+		Boot'n'noot
+		Software (malwarebytes etc.)
+
+
+Console cable.
+
+26th and 28th.
+bd1a
+547e
+
+
+9/29
+Deploy VNC: 5900 tcp, 5901
+LMI education
+
+
+
+10/30
+Client updates: reach out
+Update infra, teampass and n-able
+
+
+Questions:
+Project updates on field engineers.
+When emails come into FS.
+Priority while on site.
+VIP during projects

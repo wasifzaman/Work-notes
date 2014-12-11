@@ -1,0 +1,117 @@
+#TL8.21
+
+LocknCharge:
+-Alkaline, not lithium
+-And address
+Kevin:
+-(701)-630-9357
+
+BugsMac19:
+hard drive error
+
+
+speakers for offices.
+follow up with lock'n'charge: lock and chargers.
+ats and color laserjet
+
+wired printer for both teachers and staff: printer vlan (20?)
+wired staff only: vlan 40
+student and staff: printer ssid only wireless
+wireless staff only: BUGS
+
+route and dns updater for airprint/bonjour.
+
+Jami Craig: fixed copier issue, deleted and added the copier.
+Bugsmac19: set up, office, remote
+370 printer
+ATS printer: DOE, ticket#: 4083909
+set up M551 DN printer.
+Cart wires and lock has been shipped to BUGS.
+Disable voicemail.
+Dance room, art room.
+
+327 data+voice
+Kikutext alternative.
+
+iPad 60 to be #2
+
+
+332 internet
+437
+
+konica e265
+
+
+
+Gophermods: no go.
+Nurse: printer. Konica. show her how to print.
+Christine: 11x17.
+Elmo document camera: find where it is? Confirm order with SC.
+iPad mini carts: confirm with SC.
+PA system classrooms: speakers.
+
+10/2
+Added apple configurator to startup and auto login
+Set up screen saver and power saver to require password
+Nurse: verified printer was added to mac and showed user how to use it.
+ipad mini carts: replaced 1 cable and ran another an existing cable which was disconnected through and tested them.
+
+10/15:
+All call not working on most phones.
+iPads #3 and #25
+Elmo delivery.
+Utility printing options.
+
+Gophermods: communicate to Sachin.
+
+10/30
+Aaron Morales: talk to Sachin
+http://goo.gl/forms/qnc0DQBYkV
+C02J53YGF2GC
+
+11/5
+Include username and password for users, if data can be recovered.
+Ticket:
+
+11/6
+93498534
+
+Susan Tenner: file transferred from phone.
+Konica: #19098302
+	ipv6 was disabled, disabled ssdp, should fix the issue, set speed of nic.
+
+Chopin1810!
+Presentation2014
+
+
+
+Scott:
+•         Printing Utility – Research printing programs to help control printing
+•         Email-to-SMS – Continue to work with BUGS to ensure the Email-to-SMS distribution group works properly
+
+
+Simon:
+•         HP Printer (Main Office) – Reports a paper jam in Tray 2 when there is no apparent jam
+•         All Call – I was informed that the oncall does not function properly for at least three rooms : the Dean’s office, the cafeteria, 
+the security desk
+•         Spare MacBooks – Wipe spare MacBooks in the 4th Floor Storage Room and setup with Guest User accounts
+•         Konica Minolta c364e (Main Office) – Follow-up to determine if the issue is resolved.  If the issue re-appears, contact Konica to implement the second proposed solution
+Dan Strauss
+
+Wasif:
+•         Content Filtering – Remove restrictions on iPads to allow www.math-play.com and www.freetestonline.com
+•         Khan Academy – Unable to access on the iPads
+•         Mac Mini – Macmini01 and 02 not currently visible on the network
+•         Large iPads – Still have all the website restrictions present on them preventing teachers from using them for student research lessons
+•         Cart 1 – Not locking; possibly a dead battery
+•         iPads :
+			o   34 : should DENY every Internet access
+			o   5 : disable “super zoom”
+			o   8 : disable “high contrast”
+			o   33 : cracked screem
+
+Completed 
+Sajti assign laptop
+Spaceteam
+
+300Bug$!!
