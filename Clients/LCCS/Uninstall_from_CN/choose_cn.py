@@ -1,16 +1,16 @@
 from tkinter import *
-from root_window import *
+from root import content, root
 
 choose_cn_frame = Frame(content)
+cn_list = Listbox(choose_cn_frame)
+choose_cn_frame.pack()
+cn_list.pack(side=LEFT)
 
-Label(choose_cn_frame, text='CN List').pack() #"CN List" label on top
-cn_list = Listbox(choose_cn_frame, width=30) #list of CN
-cn_list.pack(side=LEFT) #packed LEFT
-add_cn = Button(choose_cn_frame, text='Add', width=10) #add button to add to CN
-remove_cn = Button(choose_cn_frame, text='Remove', width=10) #remove from list
-import_cn = Button(choose_cn_frame, text='Import', width=10) #import CN from file
-export_cn = Button(choose_cn_frame, text='Export', width=10) #export CN to file
-add_cn.pack() #packed
-remove_cn.pack() #packed
-import_cn.pack() #packed
-export_cn.pack() #packed
+add_button = Button(choose_cn_frame, text='Add')
+remove_button = Button(choose_cn_frame, text='Remove')
+import_button = Button(choose_cn_frame, text='Import')
+
+add_button.pack()
+remove_button.pack()
+import_button.pack()
+
