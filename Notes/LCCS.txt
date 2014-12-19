@@ -618,3 +618,29 @@ vrios - mail
 speirre comp
 
 morel g drive files
+
+
+Lacima2035
+
+12/19
+VH01 - server on it, then put fingerprint.
+X240-020
+X240-021
+X240-025
+X240-028
+T440-007
+T440-012
+
+Sullivan - send email when finished.
+
+chinnis - 2 PUPs found.
+
+script to restart comps at 6 every day
+	restart - lab comps at 1 daily
+	off - classroom at fridays at 
+
+aemerson - rolled back drivers.
+jjenkins - showed how to use VPN.
+
+BlueZebra2014
+
