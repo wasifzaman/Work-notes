@@ -41,3 +41,19 @@ Project updates on field engineers.
 When emails come into FS.
 Priority while on site.
 VIP during projects
+
+
+12/22
+Infra revamp project:
+	Analysis
+	Buy-in
+	Revamp Infra
+	Communicate
+	Revamp-all
+	Change template for new clients
+
+Prepare client documents:
+
+Project ideas:
+FOG
+SQL Infra

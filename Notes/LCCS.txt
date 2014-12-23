@@ -635,12 +635,11 @@ Sullivan - send email when finished.
 
 chinnis - 2 PUPs found.
 
-script to restart comps at 6 every day
-	restart - lab comps at 1 daily
-	off - classroom at fridays at 
-
 aemerson - rolled back drivers.
 jjenkins - showed how to use VPN.
 
 BlueZebra2014
 
+script to restart comps at 6 every day
+	restart - lab comps at 1 daily
+	off - classroom at fridays at 
