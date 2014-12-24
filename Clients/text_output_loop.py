@@ -1,20 +1,20 @@
-
+'''
 out = ''
 
 for i in range(1, 10):
-	out += 'LCCS-LAB-00'
+	out += 'shutdown /r /m \\\LCCS-LAB-00'
 	out += str(i)
-	out += ','
+	out += '\n'
 
 for i in range(10, 47):
-	out += 'LCCS-LAB-0'
+	out += 'shutdown /r /m \\\LCCS-LAB-0'
 	out += str(i)
-	out += ','
+	out += '\n'
 
 print(out)
-
-
 '''
+
+#'''
 f = open('loop_input.txt', 'r')
 out = []
 for line in f:
@@ -22,8 +22,8 @@ for line in f:
 
 out_ = ''
 for i in out:
-	out_ += '"' + i + '"'
-	out_ += ','
+	out_ += 'shutdown /s /m \\\\' + i + ''
+	out_ += '\n'
 
 print(out_)
-'''
+#'''
