@@ -643,3 +643,12 @@ BlueZebra2014
 script to restart comps at 6 every day
 	restart - lab comps at 1 daily
 	off - classroom at fridays at 
+
+
+Microsoft SQL Server Management Studio			10.0.2531.0
+Microsoft Analysis Services Client Tools		10.0.1600.22
+Microsoft Data Access Components (MDAC)			6.0.6002.18005
+Microsoft MSXML									3.0 4.0 5.0 6.0 
+Microsoft Internet Explorer						9.0.8112.16421
+Microsoft .NET Framework						2.0.50727.4247
+Operating System								6.0.6002
