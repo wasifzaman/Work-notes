@@ -1,0 +1,184 @@
+Notes for all category
+
+Servers:
+	Hostname
+	Private IP
+	Public IP
+	DRAC
+	Location
+	Service Tag/Serial/MAC
+	Model
+	Warranty
+
+NAS:
+	Hostname
+	IP
+	Location
+	Model
+	Serial
+	Warranty
+
+Swiches & Routers:
+	Switches:
+		Hostname
+		IP
+		Location
+		Model
+		Serial
+
+	Routers:
+		Model/Connection
+		Private IP
+		Public IP
+		Location
+		Serial
+WAN/Email:
+	WAN:
+		Service
+		Account Number
+		Customer Support
+		IP Range
+		Netmask
+		Gateway
+		DNS1
+		DNS2
+
+	Email:
+		Incoming
+		Outgoing
+
+Wireless:
+	Wireless Controller:
+		Model
+		IP
+		SSIDs
+		Location
+		Serial
+
+	Wireless APs:
+		Model
+		IP
+		Location
+		MAC/Serial
+
+Printers:
+	Hostname
+	IP
+	Address Type (Static/Reservation)
+	Model
+	Location
+
+Phones:
+	PBX Controller:
+		Model
+		IP
+		Location
+		Serial
+
+	Phones:
+		Model
+		Extension
+		User
+		IP
+		Location
+
+	Cell Phones:
+		User
+		Phone Number
+		Model
+		Serial
+
+Power: (UPS/PDU)
+	Model
+	Location
+	IP
+
+Workstations:
+	First Name
+	Last Name
+	Hostname
+	Model
+	Serial
+	Location
+
+Backup:
+	Hostname
+	Source
+	Destination
+	Software
+	Type (inc/full)
+	Schedule
+	Timeout?
+
+Users:
+	Active:
+		First Name
+		Last Name
+		AD Account
+		AD Password
+		Email
+		Email Password
+		Role (admin/teacher/board member)
+
+	Inactive:
+		*same as active
+
+	Misc:
+		*same as active
+
+Whiteboards:
+	Model
+	Location
+	Dedicated Machine (PC/Mac)
+	Serial
+	Warranty
+
+Inventory:
+	Inactive Laptops:
+		Model
+		Serial
+		Location
+
+	Projectors:
+		Model
+		Location
+		Serial
+		Warranty
+
+	Document Cameras:
+		Model
+		Location
+		Serial
+		Warranty
+
+Student Computers:
+	Hostname
+	Model
+	Serial
+	Location
+
+Student iPads:
+	Model
+	Name
+	Serial
+	MAC
+	OS
+
+Staff iPads
+	Model
+	Name
+	Serial
+	MAC
+	OS
+
+Students:
+	First Name
+	Last Name
+	Email
+	Email Password
+	AD Account
+	AD Password
+
+Software: (should be stored in teampass?)
+	Software
+	Key
